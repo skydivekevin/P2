@@ -1,0 +1,45 @@
+#main {
+  background-image: url('images/DeathStar.jpg');
+  height: 600px;
+  margin-top: 0px;
+  padding-top: 0px;
+  border-top: 0px
+}
+
+.image {
+  max-width: 90%;
+  height: auto;
+  float: right;
+}
+
+.searchSection {
+  padding-top: 20px;
+
+}
+
+p {
+  color: red;
+  font-size: 25px;
+  margin-right: 0px;
+  padding-right: 0px;
+}
+
+.jumbotron {
+  border-bottom: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+
+}
+
+.container {
+  border-bottom: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+
+}
+
+.infosection {
+
+}
+
+
