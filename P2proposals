@@ -1,0 +1,17 @@
+Project Proposal A
+Provide a brief description about your project that answers the following questions:
+What problem or need does your project solve?
+My website will solve the problem of friends arguing over star wars facts. This will be an easy way for anybody to quickly look up information regarding star wars to settle disputes over details.
+Who would be a user of your website?
+Anybody who loves star wars. So...most people will be using the site.
+What technologies will you be using?
+I'll be building the site with html, and styling with bootstrap. I'm planning on using axios for api retrieval, as I'm most comfortable with it. The logic will be handled with javaScript, and the api is https://swapi.co/ (star wars api).
+
+Project Proposal B
+Provide a brief description about your project that answers the following questions:
+What problem or need does your project solve?
+The problem I am intending to solve is what to decide to make for taco night! We've all been in that situation where we want to have a taco night, but are tired of the plain old taco's we're used to. Using http://taco-randomizer.herokuapp.com/, I'll be able to write an app that spits out random taco recipes for hungry users looking for adventure.
+Who would be a user of your website?
+The users I am targeting would be lovers of tacos. So, pretty much everybody.
+	What technologies will you be using?
+I'll be building the site with html, and styling with bootstrap. I'm planning on using axios for api retrieval, as I'm most comfortable with it. The logic will be handled with javaScript, and the api is What technologies will you be using?
